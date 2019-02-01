@@ -3,7 +3,6 @@
     "description": "Skeleton Application for Zend Framework zend-mvc applications",
     "type": "project",
     "license": "BSD-3-Clause",
-	"version": "v1.0.0",
     "keywords": [
         "unipd",
         "mvc",
